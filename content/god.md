@@ -149,7 +149,9 @@ title: 上帝存在的证明
 
 背景：
 
-物理学家致力于构建大一统理论（Grand Unified Theory），或者叫做万有理论（Theory of Everything）
+物理学家致力于构建大一统理论（Grand Unified Theory），或者叫做万有理论（Theory of Everything），希望把广义相对论、量子力学等物理学整合在同一个理论模型之中。目前还没有实现。
+
+目前得到**阶段性的准万有理论**，叫做粒子物理学的标准模型（Standard Model of Particle Physics）
 
 |目的论|主要观点|对目的论的主要反驳|科技进展|
 |---|---|---|---|
