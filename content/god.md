@@ -1,9 +1,11 @@
 ---
 title: 上帝存在的证明
+data: 2023-11-23
 tags:
   - 哲学
   - 生物
   - 物理
+publish: true
 ---
 
 原视频：[这5种上帝存在的证明，你能反驳掉吗？](https://www.youtube.com/watch?v=_56TFhY9s1)
