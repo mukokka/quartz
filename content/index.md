@@ -6,6 +6,5 @@ title: Welcome
 
 ## 本地预览
 
-npx quartz build --serve
-
-http://localhost:8080/
+1. `npx quartz build --serve`
+2. http://localhost:8080/
